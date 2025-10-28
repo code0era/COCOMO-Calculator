@@ -1,0 +1,22 @@
+def load_multipliers():
+    """
+    Loads cost driver multipliers (15 EAF drivers).
+    Each driver has rating levels with corresponding multiplier values.
+    """
+    return {
+        "RELY": {"Very Low": 0.75, "Low": 0.88, "Nominal": 1.00, "High": 1.15, "Very High": 1.40},
+        "DATA": {"Low": 0.94, "Nominal": 1.00, "High": 1.08, "Very High": 1.16},
+        "CPLX": {"Very Low": 0.70, "Low": 0.85, "Nominal": 1.00, "High": 1.15, "Very High": 1.30, "Extra High": 1.65},
+        "TIME": {"Nominal": 1.00, "High": 1.11, "Very High": 1.30, "Extra High": 1.66},
+        "STOR": {"Nominal": 1.00, "High": 1.06, "Very High": 1.21, "Extra High": 1.56},
+        "VIRT": {"Low": 0.87, "Nominal": 1.00, "High": 1.15, "Very High": 1.30},
+        "TURN": {"Low": 0.87, "Nominal": 1.00, "High": 1.07, "Very High": 1.15},
+        "ACAP": {"Very Low": 1.46, "Low": 1.19, "Nominal": 1.00, "High": 0.86, "Very High": 0.71},
+        "AEXP": {"Very Low": 1.29, "Low": 1.13, "Nominal": 1.00, "High": 0.91, "Very High": 0.82},
+        "PCAP": {"Very Low": 1.42, "Low": 1.17, "Nominal": 1.00, "High": 0.86, "Very High": 0.70},
+        "VEXP": {"Very Low": 1.21, "Low": 1.10, "Nominal": 1.00, "High": 0.90},
+        "LEXP": {"Very Low": 1.14, "Low": 1.07, "Nominal": 1.00, "High": 0.95},
+        "MODP": {"Very Low": 1.24, "Low": 1.10, "Nominal": 1.00, "High": 0.91, "Very High": 0.82},
+        "TOOL": {"Very Low": 1.24, "Low": 1.10, "Nominal": 1.00, "High": 0.91, "Very High": 0.83},
+        "SCED": {"Very Low": 1.23, "Low": 1.08, "Nominal": 1.00, "High": 1.04, "Very High": 1.10},
+    }
