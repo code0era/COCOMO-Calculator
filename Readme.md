@@ -180,10 +180,11 @@ cocomo-calculator/
 
 * **COCOMO Model**: Barry Boehm
 * **Python Libraries**: Tkinter, python-docx, Matplotlib
-* Developed as a project **Product From CodeEra**.
+* Developed as a project by**Shubham Yadav, Satyam Babu and Shoeb Shaikh.**.
 
 ---
 
 ## License
 
 * MIT License (open-source) – You can freely use, modify, and distribute.
+
