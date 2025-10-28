@@ -165,6 +165,22 @@ cocomo-calculator/
 ```
 
 ---
+## ScreenShots
+
+
+
+![830dec8c2eb04a87bd73df2fe11ad7c4](https://github.com/user-attachments/assets/e826217e-dbc2-45de-aa1e-34daf30effc7)
+![53b88fc2f2cb4fc5b6fc0aec354fe5e6](https://github.com/user-attachments/assets/b84cc343-6cd5-4f85-bd2a-9d327a60979d)
+![04a1ca6de6e24645be5e0b3973069d41](https://github.com/user-attachments/assets/dbba9098-dfdc-4c69-9f75-636542893bd9)
+![0c8d7976aca140728cd05310d0df41d7](https://github.com/user-attachments/assets/76bd3ab8-af8c-4f31-a345-87c394b24c9c)
+![985bf3776fab4118b4f5e592647d1380](https://github.com/user-attachments/assets/64df8e5a-8ad4-40fd-be81-6df2775c6c63)
+
+![0d8c5fcf0c9e461f81d014e1c5919c23](https://github.com/user-attachments/assets/909a8c60-d0c5-4658-adb8-1bc276f0dc61)
+
+
+
+
+
 
 ## Future Improvements
 
@@ -187,4 +203,5 @@ cocomo-calculator/
 ## License
 
 * MIT License (open-source) – You can freely use, modify, and distribute.
+
 
